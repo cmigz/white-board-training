@@ -4,9 +4,11 @@
 
 I am seeing more and more the importance of white boarding when it comes to interviewing in the tech field.  This repository is meant to be a source for me, my fellow classmates, and anyone else interested as we prepare to go out into the world and put all we've learned into practice.
 
-Update: 9/25/2017
+**Update: 9/25/2017**
 
 This is the first iteration of this repository.  I hope whoever found this finds it helpful and if comfortable will contribute additional problems/solution.
+
+Starting out with four prompts, two of which yet to have solutions.  Please feel free to submit solutions/questions or both!
 
 ## Structure
 
@@ -17,6 +19,12 @@ It is highly encouraged that you practice these prompts off of the computer. Whe
 Once you feel you've completed the prompt you can checkout to the solution branch and compare your answer with the solution.
 
 Each prompt is saved as a JavaScript file but please feel free to perform it in whatever language you'd most like to practice in.
+
+## Instructions
+
+- Fork and clone repository
+- Change into newly cloned repository
+- Install dependencies w/ `npm install`
 
 ## Contributing
 
