@@ -10,6 +10,10 @@ This is the first iteration of this repository.  I hope whoever found this finds
 
 Starting out with four prompts, two of which yet to have solutions.  Please feel free to submit solutions/questions or both!
 
+I found out our very own Ben has a repository of the same purpose.  Here's a link to his as well.
+
+[Ben's Interview Questions Repository](https://github.com/BenGitsCode/interview-questions)
+
 ## Structure
 
 Within `/bin` you will find propmpts for all the available white board questions.
